@@ -1,0 +1,4 @@
+# Output directories
+dist/
+# Modules
+node_modules/
